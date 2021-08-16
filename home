@@ -1,13 +1,6 @@
-<channels>
-
-<channel>
-
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] Canal [/COLOR] [COLOR orangered]|||
-
-[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-
-<thumbnail>https://ia601505.us.archive.org/22/items/tv_20210816/tv.jpeg</thumbnail>
-
-<externallink>https://raw.githubusercontent.com/lucas632/tv/master/Canais</externallink>
-
+<item>
+<title>[B]NOME  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO OU LEGENDADO[/B]</title>
+<link>URL AQUI</link>
+<thumbnail></thumbnail>
 <fanart>https://ia601505.us.archive.org/22/items/tv_20210816/tv.jpeg</fanart>
+</item>
