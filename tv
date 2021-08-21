@@ -1,29 +1,27 @@
 <channels>
+
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SEJAM BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - - [COLOR deeppink]|[/COLOR]</info>
+<name>[B][COLOR white]TV[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>DESCRIÇÃO DA CATEGORIA</info>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail></thumbnail>
-<externallink>https://raw.githubusercontent.com/lucas632/tv/master/home</externallink>
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - - [COLOR deeppink]|[/COLOR]</info>
+<name>[B][COLOR white]FILMES[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>DESCRIÇÃO DA CATEGORIA</info>
 </channel>
-</channels>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channel>
+<name>[B][COLOR white]SERIES[/COLOR][/B]</name>
+<thumbnail>LINK DO THUMBNAIL/ICON QUE FICA DO LADO</thumbnail>
+<externallink>LINK DE OUTRO MENU CHANNEL ou LISTA DE ITENS</externallink>
+<fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
+<info>DESCRIÇÃO DA CATEGORIA</info>
+</channel>
+
+</channels>
